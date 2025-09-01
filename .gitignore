@@ -40,3 +40,6 @@ prisma/migrations/
 .pnpm-debug.log
 package-lock.json
 yarn.lock
+
+# Files saved for reference
+*_old.*
